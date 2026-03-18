@@ -5,7 +5,7 @@
 Bem-vindo(a) à sua atividade prática de Lógica Computacional! Siga os passos abaixo para completar o desafio.
 
 **Nome do Aluno:** [Rodrigo Lara Barbeito Sá]
-**Matrícula:** [P20261100025]
+**Matrícula:** [20261100025]
 ---
 
 ## 🎯 Objetivo
