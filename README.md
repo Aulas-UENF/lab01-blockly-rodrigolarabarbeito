@@ -1,9 +1,11 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/tro2Z-6l)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=23171276&assignment_repo_type=AssignmentRepo)
 # Lab 01: Lógica de Programação com Blockly 🐢
 
 Bem-vindo(a) à sua atividade prática de Lógica Computacional! Siga os passos abaixo para completar o desafio.
 
-**Nome do Aluno:** [Preencha seu nome aqui]
-**Matrícula:** [Preencha sua matrícula]
+**Nome do Aluno:** [Rodrigo Lara Barbeito Sá]
+**Matrícula:** [20261100025]
 ---
 
 ## 🎯 Objetivo
@@ -43,14 +45,18 @@ Olhando para os blocos que você usou para resolver o jogo no nível 10, imagine
 *Suba o screenshot da sua solução final (onde aparece "Você resolveu este nível!") para a pasta **/imagens** deste repositório.*
 
 ## 3. Estratégia Utilizada
-*Explique com suas palavras como você resolveu o problema. Qual foi a lógica?*
-> Escreva aqui... Exemplo: Percebi que o padrão se repetia 3 vezes, então criei um bloco de função para desenhar a ponta da estrela e usei um loop...
+
+Meu maior desafio na resolução do nível 10 foi o preenchimento da lua, porém depois de uma analise percebi que ela deveria ser feita em 2 fatores, primeiro um circulo branco e depois um outro circulo dentro dela pintado de preto, com um menor diâmetro para cobrir a área que não me interessava e assim chegar ao resultado desejado da lua minguante.
 
 ## 4. Desafio:
-**A)** Escreva aqui...
+**A)**  o Hexágono tem 6 lados logo o Loop tem que ter 6 repetições e um angulo de giro de 360º ÷ 6 = 60º
+
   
-**B)** Escreva aqui...
+**B)**  Se quer distribuir 4 Hexágonos igualmente dentro de um círculo de 360º tem-se que dividir ele por 4 para achar a angulara ideal para cada virada 360º÷ 4 = 90º
+
   
-**C)** Escreva aqui...
+**C)** Minha lógica foi dividir o círculo completo , para o Hexágono dividi pelo seu número de lados 6 e encontrei 360º÷6 = 60º, e para 4 Hexágonos dentro de um círculo 360º ÷ 4 = 90º, pois 4 é o número de figuras dentro que o exercício pede para por dentro do círculo.
+
 
 ---
+@Annabell
